@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Cómo usar
+## Cómo usar
 
 1. **Agregar amigos**:
    - Escribe el nombre de un amigo en el campo de texto.
